@@ -16,11 +16,15 @@ Download the test dataset and place them in the same directory with the python f
 Navigate to the location of the files and either;
 
 type on the command line "python filename" without the ("")marks or,
+
 open a jupyter notebook on your browser, import the files and run them or copy the code to a new notebook and execute.
+
 optional: save the images to a directory of choice (By default, the images are saved in the same directory as the files. You can change this)
 
 Notes:
 
-Due to the large volumes of data involved, only 50 samples of the velocity models have been included in the test dataset provided here. Full dataset can be obtained by contacting the author.
+Due to the large volumes of data involved, only 50 samples of the velocity models have been included in the test dataset provided here. Full synthetic dataset can be obtained by contacting the author.
+
 Field dataset can be accessed at http://gdr.openei.org/submissions/1207
+
 For more information contact wamriewdan@gmail.com
