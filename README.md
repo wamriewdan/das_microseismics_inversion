@@ -4,9 +4,14 @@ This repository contains codes to reproduce the results/ images in the manuscrip
 Requirements:
 
 Python version 2.7 and above
+
 Tensorflow version 2.0 and above
+
 Keras version 2.24 and above 
-Execution: Download/ clone the repository and unzip it to a preferable location on your computer. 
+
+Execution: 
+
+Download/ clone the repository and unzip it to a preferable location on your computer. 
 Download the test dataset and place them in the same directory with the python files. 
 Navigate to the location of the files and either;
 
